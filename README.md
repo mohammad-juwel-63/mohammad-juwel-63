@@ -1,3 +1,30 @@
+![My Portfolio Banner](https://i.ibb.co/nqJSr1C5/Linkdin-Cover.jpg)
+
+
+###  Front-End Developer | MERN Stack Learner
+#### Passionate about building visually appealing web apps & learning full-stack development.
+I’m a Front-End Developer with experience in React, Tailwind CSS, and MERN stack. I also have a background in graphic design, which helps me build user-friendly and visually appealing web apps. I am passionate about learning full-stack development and turning creative ideas into code.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: Email: juwelmia6364@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Juwelmia63)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammad-juwel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammad.juwel.420993)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mdjuwelmia)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juwelmia63)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juwelmia63)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Juwelmia63&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Juwelmia63/contributions?format=svg&private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Juwelmia63)  
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Juwelmia63) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mdjuwelmia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-juwel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdjuwelmia171@gmail.com) 
